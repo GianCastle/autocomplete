@@ -1,6 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### How to run this app locally
+- Clone this project on any directory.
+- Go to the app directory
+- Open up a new terminal and run `npm install`
+- After the command executes, run `npm start`
+- A browser tab should come in and the app will start!
 
 ## Available Scripts
 
